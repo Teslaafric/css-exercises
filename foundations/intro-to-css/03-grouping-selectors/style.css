@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.thumb-up {
+  background-color: #000;
+  color: #fff;
+}
+.thumb-down {
+  background-color: #ffff00;
+}
+.thumb-down,
+.thumb-up {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
